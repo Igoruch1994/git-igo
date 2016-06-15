@@ -1,3 +1,0 @@
-sout(Hello World);
-sout("=)))/ssssssssssssssssssssssss
-sout("=)))ddddddddddddddc
