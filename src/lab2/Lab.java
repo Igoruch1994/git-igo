@@ -14,7 +14,7 @@ public class Lab extends Applet implements MouseWheelListener,MouseListener {
     int W=30;
     int H=40;
     int valX=0;
-    int valY=10;
+    int valY=0;
 
 
     public void init(){
