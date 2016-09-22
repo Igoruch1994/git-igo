@@ -1,0 +1,3 @@
+[submodule "Prost"]
+	path = Prost
+	url = ../prostoRepo.git
