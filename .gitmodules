@@ -1,3 +1,6 @@
 [submodule "Prost"]
 	path = Prost
 	url = ../prostoRepo.git
+[submodule "Gitok"]
+	path = Gitok
+	url = ./
